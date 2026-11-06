@@ -91,32 +91,32 @@ st.html(
                 <div>
                     <span class="hello">반가워요! 오늘도 좋은 하루 🌼</span>
                     <h1>안녕!<br>나는 <span>이민주</span>야</h1>
-                    <p class="hero-copy">[나를 소개하는 한 문장을 적어보세요.] 새로운 것을 배우고 좋아하는 것들을 나누는 걸 즐겨요.</p>
+                    <p class="hero-copy">청주교육대학교에서 배우며, 아이들과 함께 성장하는 선생님을 꿈꾸는 이민주입니다. 새로운 것을 배우고 좋아하는 것들을 나누는 걸 즐겨요.</p>
                     <a class="hero-link" href="#profile">나에 대해 더 보기 ↓</a>
                 </div>
                 <div class="photo-wrap">
                     <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&amp;fit=crop&amp;w=900&amp;q=85" alt="좋아하는 음악을 떠올리게 하는 헤드폰 사진">
-                    <div class="photo-label">내 사진으로 바꿔주세요!</div>
+                    <div class="photo-label">배움과 음악이 있는 하루</div>
                 </div>
             </section>
 
             <section class="section" id="profile">
                 <div class="section-title"><div class="eyebrow">A LITTLE ABOUT ME</div><h2>나를 소개할게</h2></div>
-                <p class="subcopy">아래 내용을 내 정보로 바꿔보세요. 짧고 솔직한 소개도 충분히 멋져요!</p>
+                <p class="subcopy">사람들과 배우고 나누는 일을 좋아합니다. 매일의 작은 발견을 소중히 여기며 조금씩 성장하고 있어요.</p>
                 <div class="info-grid">
                     <article class="info"><div class="info-label">이름</div><div class="info-value">이민주</div></article>
                     <article class="info"><div class="info-label">소속</div><div class="info-value">청주교육대학교</div></article>
-                    <article class="info"><div class="info-label">나를 한마디로</div><div class="info-value">[나를 표현하는 말]</div></article>
+                    <article class="info"><div class="info-label">나를 한마디로</div><div class="info-value">호기심 많은 배움 수집가</div></article>
                 </div>
             </section>
 
             <section class="section" id="interest">
                 <div class="section-title"><div class="eyebrow">THINGS I LOVE</div><h2>요즘 관심 있는 것</h2></div>
-                <p class="subcopy">취미, 좋아하는 음식, 배우고 싶은 것처럼 나를 보여주는 관심사를 넣어보세요.</p>
+                <p class="subcopy">아이들의 세상과 배움에 관심이 많고, 책과 음악으로 일상의 작은 즐거움을 찾습니다.</p>
                 <div class="interest-list">
-                    <span class="interest">[관심사 1]</span><span class="interest">[관심사 2]</span>
-                    <span class="interest">[취미]</span><span class="interest">[요즘 배우는 것]</span>
-                    <span class="interest">[좋아하는 장소]</span>
+                    <span class="interest">초등교육</span><span class="interest">그림책</span>
+                    <span class="interest">음악 감상</span><span class="interest">산책</span>
+                    <span class="interest">새로운 수업 아이디어</span>
                 </div>
             </section>
 
@@ -125,14 +125,14 @@ st.html(
                 <p class="subcopy">자주 듣는 노래나 요즘 빠져 있는 곡을 소개해요.</p>
                 <div class="music-grid">
                     <article class="song"><div class="album">♫</div><div><div class="song-title">기쁨, 슬픔, 아름다운 마음</div><div class="artist">AKMU</div></div></article>
-                    <article class="song"><div class="album">♪</div><div><div class="song-title">[좋아하는 노래 제목]</div><div class="artist">[아티스트 이름]</div></div></article>
-                    <article class="song"><div class="album">♬</div><div><div class="song-title">[좋아하는 노래 제목]</div><div class="artist">[아티스트 이름]</div></div></article>
+                    <article class="song"><div class="album">♪</div><div><div class="song-title">오랜 날 오랜 밤</div><div class="artist">AKMU</div></div></article>
+                    <article class="song"><div class="album">♬</div><div><div class="song-title">200%</div><div class="artist">AKMU</div></div></article>
                 </div>
-                <div class="music-note">🎧 좋아하는 플레이리스트나 음악 서비스 링크를 여기에 추가해보세요.</div>
+                <div class="music-note">🎧 따뜻한 멜로디와 솔직한 가사가 좋아 자주 듣는 곡들이에요.</div>
             </section>
 
             <section class="closing">
-                <div><h2>읽어줘서 고마워! 💛</h2><p>[마지막으로 전하고 싶은 말을 적어보세요.]</p></div>
+                <div><h2>읽어줘서 고마워! 💛</h2><p>작은 호기심을 소중히 여기며, 매일 조금씩 자라고 있어요.</p></div>
                 <div class="closing-mark">🌷</div>
             </section>
             <footer class="footer">Made with ♡ by 이민주</footer>
